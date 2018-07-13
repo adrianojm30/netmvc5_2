@@ -12,6 +12,8 @@ namespace Aplicacion.Repositorios.Dapper
         {
             using (var connection = new NpgsqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnectionString"].ConnectionString))
             {
+
+                //prueba  
                 connection.Open();
                 var parameters = new DynamicParameters();
                 parameters.Add("v_email", usuario.email);
