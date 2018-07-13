@@ -1,0 +1,122 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "cc41a5dc8a52095cce2bc451deb4e83c8c65aa71"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Aplicacion.Models/1.0.0": {
+        "dependencies": {
+          "EntityFramework": "6.2.0",
+          "NETStandard.Library": "2.0.0",
+          "Npgsql.EntityFramework": "2.2.7",
+          "System.ComponentModel.DataAnnotations": "4.0.0.0"
+        },
+        "runtime": {
+          "Aplicacion.Models.dll": {}
+        }
+      },
+      "EntityFramework/6.2.0": {
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Npgsql/2.2.7": {
+        "runtime": {
+          "lib/net45/Mono.Security.dll": {},
+          "lib/net45/Npgsql.dll": {}
+        },
+        "resources": {
+          "lib/net45/de/Npgsql.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net45/es/Npgsql.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net45/fi/Npgsql.resources.dll": {
+            "locale": "fi"
+          },
+          "lib/net45/fr/Npgsql.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net45/ja/Npgsql.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net45/zh-CN/Npgsql.resources.dll": {
+            "locale": "zh-CN"
+          }
+        }
+      },
+      "Npgsql.EntityFramework/2.2.7": {
+        "dependencies": {
+          "EntityFramework": "6.2.0",
+          "Npgsql": "2.2.7"
+        },
+        "runtime": {
+          "lib/net45/Npgsql.EntityFramework.dll": {}
+        }
+      },
+      "System.ComponentModel.DataAnnotations/4.0.0.0": {
+        "runtime": {
+          "System.ComponentModel.DataAnnotations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicacion.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityFramework/6.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ptGyXOf26qLrtn+2doAmylIlCxOnBJANwlyyLrXDmqIk9O18IzLWHyxDwwAyhgXkxmbiaA0WNpRy67WRReInBw==",
+      "path": "entityframework/6.2.0",
+      "hashPath": "entityframework.6.2.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "path": "netstandard.library/2.0.0",
+      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
+    },
+    "Npgsql/2.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iFcCEaAqHJLUxrjFa2+l2cWEQ44sC2L2qapu5BAbewqxvOH9imo0mZVxm9VWjbIJw2RvYOKXeYPk/Ov809c1vQ==",
+      "path": "npgsql/2.2.7",
+      "hashPath": "npgsql.2.2.7.nupkg.sha512"
+    },
+    "Npgsql.EntityFramework/2.2.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6G0AGtSD8KeMaqyB9zJQXtUpW8LTdiSULmYuQxvQty2OmK90x8VNkAuwhN4VLKjsKPfiiPfDZ0iEf3RYisg9xA==",
+      "path": "npgsql.entityframework/2.2.7",
+      "hashPath": "npgsql.entityframework.2.2.7.nupkg.sha512"
+    },
+    "System.ComponentModel.DataAnnotations/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

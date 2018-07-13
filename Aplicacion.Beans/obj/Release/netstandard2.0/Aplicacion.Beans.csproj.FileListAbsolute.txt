@@ -1,0 +1,9 @@
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Beans\bin\Release\netstandard2.0\Aplicacion.Beans.deps.json
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Beans\bin\Release\netstandard2.0\Aplicacion.Beans.dll
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Beans\bin\Release\netstandard2.0\Aplicacion.Beans.pdb
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Beans\obj\Release\netstandard2.0\Aplicacion.Beans.csprojResolveAssemblyReference.cache
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Beans\obj\Release\netstandard2.0\Aplicacion.Beans.csproj.CoreCompileInputs.cache
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Beans\obj\Release\netstandard2.0\Aplicacion.Beans.AssemblyInfoInputs.cache
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Beans\obj\Release\netstandard2.0\Aplicacion.Beans.AssemblyInfo.cs
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Beans\obj\Release\netstandard2.0\Aplicacion.Beans.dll
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Beans\obj\Release\netstandard2.0\Aplicacion.Beans.pdb

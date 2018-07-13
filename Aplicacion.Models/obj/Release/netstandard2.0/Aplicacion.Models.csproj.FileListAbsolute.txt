@@ -1,0 +1,9 @@
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Models\bin\Release\netstandard2.0\Aplicacion.Models.deps.json
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Models\bin\Release\netstandard2.0\Aplicacion.Models.dll
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Models\bin\Release\netstandard2.0\Aplicacion.Models.pdb
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Models\bin\Release\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Models\obj\Release\netstandard2.0\Aplicacion.Models.csproj.CoreCompileInputs.cache
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Models\obj\Release\netstandard2.0\Aplicacion.Models.AssemblyInfoInputs.cache
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Models\obj\Release\netstandard2.0\Aplicacion.Models.AssemblyInfo.cs
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Models\obj\Release\netstandard2.0\Aplicacion.Models.dll
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Models\obj\Release\netstandard2.0\Aplicacion.Models.pdb

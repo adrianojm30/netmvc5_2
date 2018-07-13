@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacion.Beans\Aplicacion.Beans.csproj" />
+    <ProjectReference Include="..\Aplicacion.Models\Aplicacion.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Configuration">
+      <HintPath>bin\Debug\netstandard2.0\System.Configuration.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

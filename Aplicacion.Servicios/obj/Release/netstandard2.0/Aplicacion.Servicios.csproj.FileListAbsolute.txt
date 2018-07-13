@@ -1,0 +1,15 @@
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\bin\Release\netstandard2.0\Aplicacion.Servicios.deps.json
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\bin\Release\netstandard2.0\Aplicacion.Servicios.dll
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\bin\Release\netstandard2.0\Aplicacion.Servicios.pdb
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\bin\Release\netstandard2.0\Aplicacion.Beans.dll
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\bin\Release\netstandard2.0\Aplicacion.Models.dll
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\bin\Release\netstandard2.0\Aplicacion.Repositorios.dll
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\bin\Release\netstandard2.0\Aplicacion.Beans.pdb
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\bin\Release\netstandard2.0\Aplicacion.Repositorios.pdb
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\bin\Release\netstandard2.0\Aplicacion.Models.pdb
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\obj\Release\netstandard2.0\Aplicacion.Servicios.csprojResolveAssemblyReference.cache
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\obj\Release\netstandard2.0\Aplicacion.Servicios.csproj.CoreCompileInputs.cache
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\obj\Release\netstandard2.0\Aplicacion.Servicios.AssemblyInfoInputs.cache
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\obj\Release\netstandard2.0\Aplicacion.Servicios.AssemblyInfo.cs
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\obj\Release\netstandard2.0\Aplicacion.Servicios.dll
+C:\MVC03072018_NOCHE\SolucionMVC5Clase\Aplicacion.Servicios\obj\Release\netstandard2.0\Aplicacion.Servicios.pdb
